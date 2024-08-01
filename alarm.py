@@ -1,3 +1,4 @@
+#playsound module can be used to directly play the audio file
 import pygame
 import time
 from datetime import datetime
